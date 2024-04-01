@@ -23,3 +23,6 @@ I'm a Software Engineer with a passion for building web applications that enhanc
 - Only push repo or codes whenever I felt it's a good practice.
 - Coding practive more on LeetCode but marely push the solution here, trying to manager this repo better 
 ![Zesheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takusei&show_icons=true&theme=radical)
+
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=takusei-m&CN)](https://github.com/KnlnKS/leetcode-stats)
