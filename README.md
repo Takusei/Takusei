@@ -1,5 +1,4 @@
-# Hello, I'm Jaycen! 👋
-
+# Hello, I'm Jaycen! The owner of a cute cat and this repo.
 
 ## About Me
 I'm a Software Engineer with a passion for building web applications that enhance user experiences. Holding a Master's in Information Engineering from Osaka University, I have over three years of experience specializing in full-stack development, with a keen interest in cloud technologies and automated workflows.
@@ -22,9 +21,11 @@ I'm a Software Engineer with a passion for building web applications that enhanc
 
 ## About my Github
 - Only push repo or codes whenever I felt it's a good practice.
-- ![Zesheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takusei&show_icons=true&theme=radical)
+
+![Zesheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takusei&show_icons=true&theme=radical)
 - Coding practive more on LeetCode but marely push the solution here, trying to manager this repo better
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/takusei-m?theme=dark&font=Mulish&ext=heatmap&site=cn)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/takusei-m?theme=dark&font=Mulish&ext=heatmap&site=cn)
 
 
 
