@@ -10,24 +10,16 @@ I'm a Software Engineer with a passion for building web applications that enhanc
 ## Skills
 - **Languages:** JavaScript, Python, JAVA, Typescript, C++
 - **Frameworks/Libraries:** Node.js, Express.js, GraphQL, Sequelize, SQLAlchemy
-- **Databases:** MySQL, Redis
+- **Databases:** MySQL, Redis (MongoDB learning in progress)
 - **Frontend:** Vue.js, Nuxt.js, React.js
 - **Infrastructure/DevOps:** GCP (mainly GKE), AWS S3, Terraform, Kubernetes, Docker, GitHub Actions, CircleCI
 - **Languages:** English (Business level), Japanese (Business level, JLPT N1), Chinese (Native)
 
-
-## Projects
-Here are some projects I'm proud of:
-
-- **Test:** 
-- **Test** 
-- More projects available on [my GitHub](https://github.com/yourGitHubUsername).
-
 ## Certifications
 - Certified Kubernetes Application Developer (CKAD)
 - Cloud Digital Leader (Google Cloud)
-'''
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
-## My GitHub Stats
-![Zesheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
+## About my Github
+- Only push repo or codes whenever I felt it's a good practice.
+- Coding practive more on LeetCode but marely push the solution here, trying to manager this repo better 
+![Zesheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takusei&show_icons=true&theme=radical)
