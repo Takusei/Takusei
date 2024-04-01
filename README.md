@@ -1,5 +1,6 @@
 # Hello, I'm Jaycen! 👋
 
+
 ## About Me
 I'm a Software Engineer with a passion for building web applications that enhance user experiences. Holding a Master's in Information Engineering from Osaka University, I have over three years of experience specializing in full-stack development, with a keen interest in cloud technologies and automated workflows.
 
@@ -21,8 +22,10 @@ I'm a Software Engineer with a passion for building web applications that enhanc
 
 ## About my Github
 - Only push repo or codes whenever I felt it's a good practice.
-- Coding practive more on LeetCode but marely push the solution here, trying to manager this repo better 
+- Coding practive more on LeetCode but marely push the solution here, trying to manager this repo better
+
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=takusei-m&CN)
 ![Zesheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takusei&show_icons=true&theme=radical)
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=takusei-m&CN)](https://github.com/KnlnKS/leetcode-stats)
+
