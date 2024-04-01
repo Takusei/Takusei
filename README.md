@@ -22,5 +22,5 @@ I'm a Software Engineer with a passion for building web applications that enhanc
 ## About This Github
 - Only push repo or codes whenever I felt it's a good practice.
 - Coding practice more on LeetCode but rarely push the solution here, trying to manage this repo better.
-![LeetCode Stats](https://leetcard.jacoblin.cool/takusei-m?theme=dark&font=Mulish&ext=heatmap&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/takusei-m?font=Mulish&ext=heatmap&site=cn)
 
