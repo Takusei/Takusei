@@ -19,7 +19,7 @@ I'm a Software Engineer with a passion for building web applications that enhanc
 - Certified Kubernetes Application Developer (CKAD)
 - Cloud Digital Leader (Google Cloud)
 
-## About my Github
+## About This Github
 - Only push repo or codes whenever I felt it's a good practice.
 - Coding practice more on LeetCode but rarely push the solution here, trying to manage this repo better.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/takusei-m?theme=dark&font=Mulish&ext=heatmap&site=cn)
