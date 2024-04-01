@@ -15,6 +15,7 @@ I'm a Software Engineer with a passion for building web applications that enhanc
 - **Infrastructure/DevOps:** GCP (mainly GKE), AWS S3, Terraform, Kubernetes, Docker, GitHub Actions, CircleCI
 - **Languages:** English (Business level), Japanese (Business level, JLPT N1), Chinese (Native)
 
+
 ## Projects
 Here are some projects I'm proud of:
 
@@ -28,3 +29,5 @@ Here are some projects I'm proud of:
 '''
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
+## My GitHub Stats
+![Zesheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
